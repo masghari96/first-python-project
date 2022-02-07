@@ -8,3 +8,4 @@ Number -= 2
 Number //= 3
 Number -= firstNumber
 Number *= 4
+print(Number)
